@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851126688278",
+    "project_id": "logininacap-1ab40",
+    "storage_bucket": "logininacap-1ab40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851126688278:android:3d45f92104a0014cddf337",
+        "android_client_info": {
+          "package_name": "com.example.nuevo3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7D4HeDVv1ylbHHSj7yXxIqUEg5h18VG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
